@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">653179479938-7u700t4e7tce7fgkt005l6292vkb78ak.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">653179479938</string>
+    <string name="google_api_key" translatable="false">AIzaSyAlpk44CDImGB4tPR_9sEtfKQ_oiVAvwiU</string>
+    <string name="google_app_id" translatable="false">1:653179479938:android:0a11f29a6d36585a36919b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAlpk44CDImGB4tPR_9sEtfKQ_oiVAvwiU</string>
+    <string name="google_storage_bucket" translatable="false">cmon-messenger-f088b.appspot.com</string>
+    <string name="project_id" translatable="false">cmon-messenger-f088b</string>
+</resources>

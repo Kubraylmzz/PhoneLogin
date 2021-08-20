@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Desktop\Projects\Marsalasoft\Cmon-messenger\cmon_messenger\build\windows\CMakeFiles\414a899a0789a8de684bbd9002499a48\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F4CA806E-3C15-36AC-B965-EC757E765584}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "653179479938",
+    "project_id": "cmon-messenger-f088b",
+    "storage_bucket": "cmon-messenger-f088b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653179479938:android:0a11f29a6d36585a36919b",
+        "android_client_info": {
+          "package_name": "com.example.cmon_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653179479938-jh6ip6d4pifvtmtkn2m6up26cm3eqich.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cmon_messenger",
+            "certificate_hash": "7e07a0a77e061e9a565767483b2d7f80290e15e1"
+          }
+        },
+        {
+          "client_id": "653179479938-7u700t4e7tce7fgkt005l6292vkb78ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlpk44CDImGB4tPR_9sEtfKQ_oiVAvwiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653179479938-7u700t4e7tce7fgkt005l6292vkb78ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

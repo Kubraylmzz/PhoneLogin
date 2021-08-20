@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Desktop\Projects\Marsalasoft\Cmon-messenger\cmon_messenger\build\windows\CMakeFiles\79fe266cb85a1d941e77ebc64fa72204\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\Projects\Marsalasoft\Cmon-messenger\cmon_messenger\build\windows\CMakeFiles\d50e52ae3f8aa5bec7e4d059c33752fe\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\Projects\Marsalasoft\Cmon-messenger\cmon_messenger\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\User\Desktop\Projects\Marsalasoft\Cmon-messenger\cmon_messenger\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F4CA806E-3C15-36AC-B965-EC757E765584}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
